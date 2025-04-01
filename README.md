@@ -19,8 +19,6 @@ A multilingual AI chatbot for Vidyashilp University built with Google Gemini LLM
 
 # Project Title
 
-[![YouTube](https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg)](https://www.youtube.com/watch?v=aTvEhvBkqiY)
-
 ![Thumbnail](https://img.youtube.com/vi/aTvEhvBkqiY/maxresdefault.jpg)
 
 ## Description
